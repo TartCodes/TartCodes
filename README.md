@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Tartaglione</h1>
-<h3 align="center">A passionate full-stack developer in the US</h3>
+<h3 align="center">A passionate full-stack web developer in the US</h3>
 
 - 🔭 I’m currently working on [a custom portfolio](https://github.com/TartCodes/portfolio)
 
