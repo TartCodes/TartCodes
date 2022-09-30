@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on a character manager for the PF2e game system!
 
-- 🌱 I’m currently learning **JS, Node, React, MongoDB, Python**
+- 🌱 I’m currently learning **JS, Node, React, MongoDB, Python, Sql**
 
 - 📫 How to reach me **TartCodes@gmail.com** or **Tartaglionema@gmail.com**
---or--
+- 
 - Check out my portfolio <a href="https://tartcodes.netlify.app/" target="blank">here!</a>
 
 
