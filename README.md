@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **TartCodes@gmail.com** or **Tartaglionema@gmail.com**
 
-- Check out my portfolio <a href="https://tartcodes.netlify.app/" target="blank">here!</a>
+- Check out my portfolio <a href="https://tartcodes.netlify.app/" target="_blank">here!</a>
 
 
 
