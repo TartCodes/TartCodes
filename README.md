@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, Node, React, MongoDB, Python**
 
-- 📫 How to reach me **TartCodes@gmail.com**
+- 📫 How to reach me **TartCodes@gmail.com** or **Tartaglionema@gmail.com**
 
 
 
