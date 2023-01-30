@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Tartaglione</h1>
 <h3 align="center">A passionate full-stack web developer in the US</h3>
 
-- 🔭 I’m currently working on a character manager for the PF2e game system as well as some smaller React.js projects!
+- 🔭 I’m currently working on a character manager for the PF2e game system, a food delivery app, and an OpenAI email generator! 
 
 - 🌱 I’m currently learning **JS, Node, React, Redux, MongoDB, Python, Sql, Next.js**
 
